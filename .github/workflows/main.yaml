@@ -20,7 +20,7 @@ jobs:
           filename: metrics1.svg
           user: sm17p
           base: header, activity, repositories, metadata
-          # config_timezone: Asia/Tokyo
+          config_timezone: Asia/Calcutta
           config_twemoji: yes
           # repositories_skipped: piscon2019,piscon2019-2,go-traq
           use_prebuilt_image: yes
@@ -54,7 +54,7 @@ jobs:
           filename: metrics2.svg
           user: sm17p
           base: ""
-          # config_timezone: Asia/Tokyo
+          config_timezone: Asia/Calcutta
           config_twemoji: yes  
           # repositories_skipped: piscon2019,piscon2019-2,go-traq
           use_prebuilt_image: yes
