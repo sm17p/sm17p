@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 <div>
-  <img src="https://github.com/sapphi-red/sapphi-red/blob/main/metrics1.svg" width="48%" />
-  <img src="https://github.com/sapphi-red/sapphi-red/blob/main/metrics2.svg" width="48%" />
+  <img src="https://github.com/sm17p/sm17p/blob/main/metrics1.svg" width="48%" />
+  <img src="https://github.com/sm17p/sm17p/blob/main/metrics2.svg" width="48%" />
 </div>
-<img src="https://github.com/sapphi-red/sponsors/blob/main/dist/sponsors.svg" width="95%" />
 
 <!--
-**sapphi-red/sapphi-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sm17p/sm17p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
