@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/sm17p/sm17p/main/metrics2.svg" width="48%" />
 </div>
 <div>
-  <img src="https://raw.githubusercontent.com/sm17p/sm17p/main/metrics3.svg" width="96%" />
+  <img src="https://raw.githubusercontent.com/sm17p/sm17p/main/metrics3.svg" width="48%" />
 </div>
 
 
