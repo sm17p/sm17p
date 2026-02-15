@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 <div>
-  <img src="https://github.com/sm17p/sm17p/blob/main/metrics1.svg" width="48%" />
-  <img src="https://github.com/sm17p/sm17p/blob/main/metrics2.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/sm17p/sm17p/main/metrics1.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/sm17p/sm17p/main/metrics2.svg" width="48%" />
 </div>
+<div>
+  <img src="https://raw.githubusercontent.com/sm17p/sm17p/main/metrics3.svg" width="96%" />
+</div>
+
 
 <!--
 **sm17p/sm17p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -69,5 +69,15 @@ jobs:
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_pwa: no
 
+      - name: Metrics 3
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics3.svg
+          user: sm17p
+          base: ""
+          config_timezone: Asia/Calcutta
+          config_twemoji: yes
+          use_prebuilt_image: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
