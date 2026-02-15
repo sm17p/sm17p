@@ -63,10 +63,10 @@ jobs:
           use_prebuilt_image: yes
 
           plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_pwa: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://www.sm17p.me/
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_pwa: no
 
 
           plugin_isocalendar: yes
